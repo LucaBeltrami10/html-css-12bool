@@ -1,0 +1,21 @@
+/****************
+MAIN
+*****************/
+.container{
+    width: 100%;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+
+[class*="col-"] {
+    color: lightsalmon;
+    border: 1px solid white;
+    height: 15px;
+}
+
+
+/*? Section Esercizi per casa */
+
+
+
+/*? Section Offset */
