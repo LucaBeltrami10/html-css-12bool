@@ -1,0 +1,38 @@
+/***********
+BONUS
+************/
+
+.container{
+    max-width: 580px;
+}
+
+[class*="col"] {
+    height: 24px;
+}
+
+
+/* COLOR */
+
+.black{
+    background-color: black;
+}
+
+.red{
+    background-color: #fe0000;
+}
+
+.white{
+    background-color: white;
+}
+
+.pink{
+    background-color: #fcd5b4;
+}
+
+.blue{
+    background-color: #0071c1;
+}
+
+.brown{
+    background-color: #974804;
+}
