@@ -40,4 +40,10 @@ h1{
     border: 1px solid tomato;
 }
 
+div.divider{
+    height: 20px;
+    width: 100%;
+    background-color: white;
+}
+
 /*? Section Offset */
