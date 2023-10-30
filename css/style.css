@@ -4,17 +4,13 @@ MAIN
 .container{
     max-width: 100%;
     margin: 0 auto;
-    background-color: aquamarine;
 }
 
 [class*="col"] {
-    color: lightsalmon;
     border: 1px solid white;
     height: 50px;
     text-align: center;
-}
-
-div[class*="col"]{
+    background-color: #006cfa;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -35,15 +31,12 @@ h1.titolo-blocco{
 
 .nasted-container{
     padding: 5px;
-
-    /*!da eliminare background */
-    background-color: tomato;
 }
 
 .nasted{
-    background-color: rgb(139, 198, 52);
+    background-color: #00e165;
     height: 100%;
-    border: 1px solid tomato;
+    border: 1px solid #006cfa;
 }
 
 div.divider{
@@ -53,3 +46,7 @@ div.divider{
 }
 
 /*? Section Offset */
+
+#es-offset{
+    margin-top: 0.5rem;
+}
